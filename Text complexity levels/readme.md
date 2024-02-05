@@ -18,15 +18,12 @@
 
 #### Main tools 
 - Jupiter notebook, Python and Markdown
-- Markdown notes on Russian
 ####  Machine Learning tools  
-- ML models GridSearchCV, LogisticRegression,RandomForestClassifier, DecisionTreeClassifier, LGBMClassifier
-- Transformers: BertTokenizer ("unitary/toxic-bert"), AutoModel, AutoTokenizer
-- For other text extraction: TfidfVectorizer, WordNetLemmatizer
-- ML metrics accuracy_score, f1_score
+- ML models GridSearchCV, CatBoost, MultinomialNB, SGDClassifier
+- For text extraction: CountVectorizer, TfidfVectorizer
+- ML metrics f1_weighed 
 #### Conclusions
 - The project is completed
-- Different Count-Based Embedding and Transformers Methods for features extraction were compared
-- Machine learning models were trained and compared, the model with the best metric was selected
+- For searching best hyperparameters used machine learning algorithm with pipeline, GridSearchCV.
+- Machine learning models were trained and compared, the best model was selected
 - The selected Machine learning model was tested on a test dataset
-- Required metric was reached 
