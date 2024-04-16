@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-Natural Language Processing tools in different DS, ML projects 
+Practical tasks for customers with Natural Language Processing tools
