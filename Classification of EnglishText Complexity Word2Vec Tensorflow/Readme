@@ -20,7 +20,7 @@
 - Jupiter notebook, Python and Markdown
 ####  Machine Learning tools  
 - Keras, TensorFlow
-- For text extraction: Word2Vec, Gensim, CBOW
+- For text extraction: Re, Word2Vec, Gensim, CBOW
 - ML metrics: sparse_categorical_accuracy 
 #### Conclusions
 - The project is completed
